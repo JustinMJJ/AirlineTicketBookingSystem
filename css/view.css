@@ -1,0 +1,60 @@
+#page {
+    background: #e7e9ed;
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+}
+h1{
+    padding-top: 50px;
+    padding-left: 10px;
+}
+
+#end{
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+.text-1 {
+    font-size: 12px !important;
+    font-size: 0.75rem !important;
+}
+
+.text-2 {
+    font-size: 18px !important;
+    font-size: 1.125rem !important;
+}
+
+.text-3 {
+    font-size: 16px !important;
+    font-size: 1rem !important;
+}
+
+.bg-light-4 {
+    background-color: #eff0f2 !important;
+}
+
+#invoice{
+    margin: 15px auto;
+    padding: 70px;
+    max-width: 850px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    -moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+    -o-border-radius: 6px;
+    border-radius: 6px;
+}
+a{
+    color: #4c81bf;
+    padding-bottom: 130px;
+    font-size: 18px;
+}
+
+footer {
+    font-size: 18px;
+    text-align: left;
+    font-style: normal;
+    clear: both;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 70px;
+}

@@ -1,0 +1,46 @@
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 18px;
+}
+.body-content :hover{
+
+}
+.body-content div {
+    background-image: linear-gradient(to right bottom,aliceblue,lightblue,lightskyblue,skyblue,rgb(118, 218, 255));
+    padding: 20px;
+    border-radius: 25px;
+}
+.body-content a{
+    text-decoration: none;
+}
+.body-content a:hover {
+
+    text-decoration: none;
+}
+.body-content a:visited{
+    color:black;
+}
+
+.body-content > p:first-child {
+    font-size: 25px;
+    font-weight:bolder;
+}
+
+h1{
+    padding-top: 50px;
+    padding-left: 10px;
+}
+hr{
+    padding-top: 20px;
+}
+
+footer {
+    font-size: 18px;
+    text-align: left;
+    font-style: normal;
+    clear: both;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 70px;
+}
